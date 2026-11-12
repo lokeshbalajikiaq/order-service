@@ -1,0 +1,4 @@
+package in.balu.feignClients;
+
+public class CartFeignClient {
+}
